@@ -1,0 +1,5 @@
+train: /content/bcc/images/train
+val: /content/bcc/images/valid
+
+nc: 1
+names: [stas]
